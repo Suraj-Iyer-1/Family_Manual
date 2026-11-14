@@ -39,8 +39,7 @@ export default function About() {
                 for outcomes arising from reliance on content published here.
               </p>
               <p>
-                If you spot an error or outdated information, please write to us so
-                we can correct it promptly.
+                If you spot an error or outdated information, please write to the email in the footer for prompt rectification.
               </p>
             </section>
 
@@ -53,7 +52,7 @@ export default function About() {
                 middle of grief with no preparation or adequate guidance.
               </p>
               <p>
-                The goal is simple: one consolidated post-mortem resource where any Indian family can find
+                The goal is simple: one consolidated post-mortem resource where any family can find
                 step-by-step guidance on death registration, succession,
                 bank and insurance claims, pension and EPF, and property transfer processes
                 without having to immediately consult a lawyer, a CA, or a family connection who happens to
