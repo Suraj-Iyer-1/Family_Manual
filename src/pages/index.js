@@ -17,7 +17,7 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <p className={styles.heroDescription}>
           Paperwork doesn't pause when someone in your family passes away.
-          This is a non-commercial, operational resource to help Indian families navigate 
+          This is a non-commercial, operational resource to help families navigate 
           death registration, succession, bank accounts, insurance claims, pensions, EPF, and property transfers. 
           The intention is to keep this in plain language and easily understandable.
         </p>
