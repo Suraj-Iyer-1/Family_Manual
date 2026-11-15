@@ -28,7 +28,7 @@ export default function NotFoundContent() {
           </ul>
 
           <p>
-            If you believe this link should work, please contact us at{' '}
+            If you believe this link should work, please contact {' '}
             <a href="mailto:outreach@familymanual.org">
               outreach@familymanual.org
             </a>.
